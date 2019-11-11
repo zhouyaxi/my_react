@@ -142,3 +142,6 @@ function calculateWinner(squares) {
   }
   return null;
 }
+function  test(){
+  console.log("试试看")
+}
